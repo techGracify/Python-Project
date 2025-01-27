@@ -6,6 +6,8 @@ Employee performance is a key determinant of organizational success. Having the 
 This dataset includes attributes such as age, salary, years of experience and department etc, with the mindset of exploring how these factors influence employee performance ratings.
 The analysis will uncover insights that could guide human resources strategies from recruitment to performance management.
 
+
+
 ## Data Source
 The dataset was gotten from kaggle website, it consists 1,000 rows and 12 columns, each representing an employee’s details and its features are as follows:
 - 	ID:		Unique identifier for each employee.

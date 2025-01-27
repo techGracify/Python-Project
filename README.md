@@ -7,6 +7,7 @@ This dataset includes attributes such as age, salary, years of experience and de
 The analysis will uncover insights that could guide human resources strategies from recruitment to performance management.
 
 
+![pyscrn](https://github.com/user-attachments/assets/03570966-8911-41b9-aa3d-0c43ba104fec)
 
 ## Data Source
 The dataset was gotten from kaggle website, it consists 1,000 rows and 12 columns, each representing an employee’s details and its features are as follows:
